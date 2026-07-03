@@ -1,4 +1,4 @@
-Live Demo : - https://vercel.com/ashrafali095y-6876s-projects/gradient-generator
+Live Demo : - [https://vercel.com/ashrafali095y-6876s-projects/gradient-generator](https://gradient-generator-rose.vercel.app/)
 
 # React + Vite
 
