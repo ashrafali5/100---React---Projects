@@ -9,3 +9,6 @@ input[type="number"]::-webkit-outer-spin-button {
 input[type="number"] {
   appearance: textfield;
 }
+.content {
+  height: 100vh;
+}

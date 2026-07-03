@@ -2,7 +2,7 @@ import GradientGenerator from "./GradientGenerator/GradientGenerator";
 
 const App = () => {
   return (
-    <div>
+    <div className="content">
       <GradientGenerator />
     </div>
   );
