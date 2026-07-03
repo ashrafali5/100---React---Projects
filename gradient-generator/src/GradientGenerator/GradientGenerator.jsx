@@ -59,7 +59,7 @@ const GradientGenerator = () => {
         <div className="flex justify-between items-center">
           <div className="text-2xl flex justify-start items-center font-bold">
             <img className="w-24 h-auto" src={colorLogo} alt="colorLogo" />
-            <span>Gradient Generator - {type}</span>
+            <span>Gradient Generator</span>
           </div>
           <div className="flex gap-4">
             <input
